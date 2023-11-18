@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(219, 135, 135);
+}
+label{
+    color:rgb(18, 13, 13);
+    
+
+}
+h1{
+    text-transform: uppercase;
+    text-decoration:underline;
+}
